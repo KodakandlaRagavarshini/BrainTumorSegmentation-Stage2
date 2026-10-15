@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+models/*.pt
+models/*.pth
+outputs/
+data/
+notebooks/
+*.nii
+*.nii.gz
